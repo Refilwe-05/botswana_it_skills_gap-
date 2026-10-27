@@ -88,13 +88,33 @@ elif page == "Skills Demand":
     st.plotly_chart(fig, use_container_width=True)
 
     st.dataframe(demand, use_container_width=True)
+    
 # Graduate Supply
 elif page == "Graduate Supply":
     st.title("Graduate Skills Supply")
     st.write("Skills represented in the graduate dataset.")
-    st.dataframe(supply, use_container_width=True)
 
-    st.info("Review the column names to select the correct chart fields.")
+    supply_chart = supply.sort_values(
+        "Supply_Frequency", ascending=True
+    )
+
+    fig = px.bar(
+        supply_chart,
+        x="Supply_Frequency",
+        y="Skill",
+        orientation="h",
+        title="Most Common Skills Among Graduates",
+        labels={
+            "Supply_Frequency": "Number of Graduates",
+            "Skill": "IT Skill"
+        },
+        text="Supply_Frequency"
+    )
+
+    fig.update_layout(yaxis={"categoryorder": "total ascending"})
+    st.plotly_chart(fig, use_container_width=True)
+
+    st.dataframe(supply, use_container_width=True)
 
 # Gap Analysis
 elif page == "Gap Analysis":
