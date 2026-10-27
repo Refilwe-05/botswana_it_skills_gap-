@@ -186,8 +186,6 @@ elif page == "Gap Analysis":
     st.dataframe(filtered_gaps, use_container_width=True)
 
 # Job Postings
-
-# Job Postings
 elif page == "Job Postings":
     st.title("IT Job Postings")
     st.write(
