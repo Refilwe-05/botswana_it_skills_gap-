@@ -186,19 +186,58 @@ elif page == "Gap Analysis":
     st.dataframe(filtered_gaps, use_container_width=True)
 
 # Job Postings
+
+# Job Postings
 elif page == "Job Postings":
     st.title("IT Job Postings")
+    st.write(
+        "Explore the job postings used to analyse IT skills "
+        "demand in Botswana."
+    )
 
+    # Search job titles or companies
     search = st.text_input("Search job titles or companies")
 
     filtered_jobs = jobs.copy()
+
     if search:
         mask = filtered_jobs.astype(str).apply(
-            lambda col: col.str.contains(search, case=False, na=False)
+            lambda col: col.str.contains(
+                search, case=False, na=False
+            )
         ).any(axis=1)
+
         filtered_jobs = filtered_jobs[mask]
+
+    # Chart showing postings by role
+    if "role" in filtered_jobs.columns:
+        role_counts = (
+            filtered_jobs["role"]
+            .fillna("Unknown")
+            .value_counts()
+            .rename_axis("Role")
+            .reset_index(name="Number of Postings")
+        )
+
+        fig = px.bar(
+            role_counts.sort_values(
+                "Number of Postings", ascending=True
+            ),
+            x="Number of Postings",
+            y="Role",
+            orientation="h",
+            text="Number of Postings",
+            title="Job Postings by IT Role",
+            labels={
+                "Number of Postings": "Number of Job Postings",
+                "Role": "IT Role"
+            }
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
 
     st.write(f"Showing {len(filtered_jobs)} job postings")
     st.dataframe(filtered_jobs, use_container_width=True)
+
 
 st.sidebar.caption("Botswana Accountancy College · BIDA Project")
