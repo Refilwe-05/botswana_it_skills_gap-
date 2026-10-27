@@ -1,0 +1,553 @@
+Skill,Demand_%,Graduate_%,Gap,Role,Postings_in_role,Supply_basis
+Capacity management,12.5,0.0,12.5,Data,16,graduates targeting this role
+Data migration,12.5,0.0,12.5,Data,16,graduates targeting this role
+Data mining,12.5,0.0,12.5,Data,16,graduates targeting this role
+Statistical analysis,12.5,0.0,12.5,Data,16,graduates targeting this role
+Advanced Excel,6.2,0.0,6.2,Data,16,graduates targeting this role
+Algorithm implementation,6.2,0.0,6.2,Data,16,graduates targeting this role
+Asset management,6.2,0.0,6.2,Data,16,graduates targeting this role
+Azure cloud,6.2,0.0,6.2,Data,16,graduates targeting this role
+Business Countinuity Management,6.2,0.0,6.2,Data,16,graduates targeting this role
+Change management,6.2,0.0,6.2,Data,16,graduates targeting this role
+Cloud architecture,6.2,0.0,6.2,Data,16,graduates targeting this role
+Cloud migration,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Cloud platforms (Azure, AWS, GCP)",6.2,0.0,6.2,Data,16,graduates targeting this role
+"Cloud technologies (AWS, Azure, GCP, HCS)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Communicating technical findings,6.2,0.0,6.2,Data,16,graduates targeting this role
+Compute,6.2,0.0,6.2,Data,16,graduates targeting this role
+Dashboard/BI tools,6.2,0.0,6.2,Data,16,graduates targeting this role
+Dashboards and self-service analytics,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Data analytics, reporting, data collection & validation, dashboards, metric tracking, market analysis, MS Word, Excel, PowerPoint",6.2,0.0,6.2,Data,16,graduates targeting this role
+Data assurance,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data centre operations,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data cleansing,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Data collection, cleaning and management",6.2,0.0,6.2,Data,16,graduates targeting this role
+Data engineering and architecture,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data governance,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data governance and compliance,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data governance and integrity,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data integrity,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data management,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data management/reporting tools,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Data mining, statistical analysis, machine learning, ETL, data architecture, SAS, R, SPSS, Power BI, Tableau, software engineering, financial services data, model building",6.2,0.0,6.2,Data,16,graduates targeting this role
+Data reconciliation and validation,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Data science toolkits (SAS, R, SPSS)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Data validation and reconciliation,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Data visualisation (Power BI, Tableau)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Data visualisation and dashboards,6.2,0.0,6.2,Data,16,graduates targeting this role
+Data warehouses/lakehouses,6.2,0.0,6.2,Data,16,graduates targeting this role
+Datacentre operations,6.2,0.0,6.2,Data,16,graduates targeting this role
+Documentation,6.2,0.0,6.2,Data,16,graduates targeting this role
+Documentation and reproducibility,6.2,0.0,6.2,Data,16,graduates targeting this role
+ERP concepts (Academia ERP),6.2,0.0,6.2,Data,16,graduates targeting this role
+ETL,6.2,0.0,6.2,Data,16,graduates targeting this role
+ETL and data architecture,6.2,0.0,6.2,Data,16,graduates targeting this role
+"ETL/ELT pipelines (Azure Data Factory, dbt, Apache Airflow)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Environmental monitoring,6.2,0.0,6.2,Data,16,graduates targeting this role
+Excel and Access,6.2,0.0,6.2,Data,16,graduates targeting this role
+FAIR Data Principles,6.2,0.0,6.2,Data,16,graduates targeting this role
+Firewalls,6.2,0.0,6.2,Data,16,graduates targeting this role
+GIS (desired),6.2,0.0,6.2,Data,16,graduates targeting this role
+Generative AI,6.2,0.0,6.2,Data,16,graduates targeting this role
+High availability and resilience,6.2,0.0,6.2,Data,16,graduates targeting this role
+Hypervisors,6.2,0.0,6.2,Data,16,graduates targeting this role
+IAM,6.2,0.0,6.2,Data,16,graduates targeting this role
+IT infrastructure and data principles,6.2,0.0,6.2,Data,16,graduates targeting this role
+Incident management,6.2,0.0,6.2,Data,16,graduates targeting this role
+Information security and compliance,6.2,0.0,6.2,Data,16,graduates targeting this role
+Infrastructure modernisation,6.2,0.0,6.2,Data,16,graduates targeting this role
+Load balancers,6.2,0.0,6.2,Data,16,graduates targeting this role
+"MLOps (MLflow, Azure ML)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Machine learning,6.2,0.0,6.2,Data,16,graduates targeting this role
+Microsoft BI,6.2,0.0,6.2,Data,16,graduates targeting this role
+Modelling,6.2,0.0,6.2,Data,16,graduates targeting this role
+Networking,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Other ERP systems (Oracle, Microsoft Dynamics, NetSuite)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Physical security,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Predictive modelling (credit scoring, propensity, churn)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Process Development,6.2,0.0,6.2,Data,16,graduates targeting this role
+Project Implementation and Plannning,6.2,0.0,6.2,Data,16,graduates targeting this role
+Project management,6.2,0.0,6.2,Data,16,graduates targeting this role
+Proof-of-concept development,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Python (Pandas, Scikit-learn, PyTorch, TensorFlow)",6.2,0.0,6.2,Data,16,graduates targeting this role
+"Python, R or Stata",6.2,0.0,6.2,Data,16,graduates targeting this role
+"Python, R, Stata, SQL, GIS, Power BI, Tableau, statistical analysis, modelling, data management, dashboards",6.2,0.0,6.2,Data,16,graduates targeting this role
+Quantitative data analysis,6.2,0.0,6.2,Data,16,graduates targeting this role
+Rack layout and equipment installation,6.2,0.0,6.2,Data,16,graduates targeting this role
+Real-time data streaming,6.2,0.0,6.2,Data,16,graduates targeting this role
+SAP / S/4HANA,6.2,0.0,6.2,Data,16,graduates targeting this role
+SLA/QLA Management,6.2,0.0,6.2,Data,16,graduates targeting this role
+"SQL, GIS or Power BI and Tableau as an advantage",6.2,0.0,6.2,Data,16,graduates targeting this role
+"SQL, Oracle, MySQL databases",6.2,0.0,6.2,Data,16,graduates targeting this role
+"SQL, PostgreSQL, ClickHouse, HA/replication, performance tuning, backup/PITR, Linux, scripting (Bash/Python/Ansible/Terraform), security controls, regulatory compliance, monitoring, DR, DataOps/CI-CD",6.2,0.0,6.2,Data,16,graduates targeting this role
+SQL/Oracle/PostgreSQL (implied),6.2,0.0,6.2,Data,16,graduates targeting this role
+Security Policy Compliance,6.2,0.0,6.2,Data,16,graduates targeting this role
+Software Engineering,6.2,0.0,6.2,Data,16,graduates targeting this role
+Software engineering,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Statistical modelling (time-series, SEM)",6.2,0.0,6.2,Data,16,graduates targeting this role
+Storage,6.2,0.0,6.2,Data,16,graduates targeting this role
+Structured cabling,6.2,0.0,6.2,Data,16,graduates targeting this role
+Supplier Solution Management,6.2,0.0,6.2,Data,16,graduates targeting this role
+System Design,6.2,0.0,6.2,Data,16,graduates targeting this role
+System Support,6.2,0.0,6.2,Data,16,graduates targeting this role
+Team leadership,6.2,0.0,6.2,Data,16,graduates targeting this role
+Technical Documentation,6.2,0.0,6.2,Data,16,graduates targeting this role
+Technical business intelligence,6.2,0.0,6.2,Data,16,graduates targeting this role
+Technical pre-sales and solution design,6.2,0.0,6.2,Data,16,graduates targeting this role
+Unix/Linux,6.2,0.0,6.2,Data,16,graduates targeting this role
+Unstructured data processing,6.2,0.0,6.2,Data,16,graduates targeting this role
+Uptime Institute TCOS requirements,6.2,0.0,6.2,Data,16,graduates targeting this role
+Virtual/network infrastructure management,6.2,0.0,6.2,Data,16,graduates targeting this role
+Windows,6.2,0.0,6.2,Data,16,graduates targeting this role
+"Windows Server, virtualization, LAN/WAN/Wi-Fi/VPN, TCP/IP, SQL, MS SQL Server, VB.NET, C#.NET, APIs, scripting, AI tools, IoT, RFID, machine vision, system hardware",6.2,0.0,6.2,Data,16,graduates targeting this role
+Microsoft Excel,6.2,18.5,-12.3,Data,16,graduates targeting this role
+Database administration,12.5,29.6,-17.1,Data,16,graduates targeting this role
+Backup and disaster recovery,6.2,33.3,-27.1,Data,16,graduates targeting this role
+SQL,12.5,51.9,-39.4,Data,16,graduates targeting this role
+Cybersecurity,18.2,0.0,18.2,Management,22,ALL graduates (none target this role)
+Dashboard development,9.1,0.0,9.1,Management,22,ALL graduates (none target this role)
+Digital transformation,9.1,0.0,9.1,Management,22,ALL graduates (none target this role)
+IT risk management,9.1,0.0,9.1,Management,22,ALL graduates (none target this role)
+IT strategy,9.1,0.0,9.1,Management,22,ALL graduates (none target this role)
+Network and infrastructure management,9.1,0.0,9.1,Management,22,ALL graduates (none target this role)
+Data Analytics,13.6,8.3,5.3,Management,22,ALL graduates (none target this role)
+ADSL,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+AI/business applications,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Agile ways of working,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Analytical and diagnostic skills,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Application provisioning,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Arch POS,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Automation,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Azure,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Business continuity,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Business intelligence,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Business intelligence platforms,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Business process analysis,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Business requirement analysis,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+C++,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+CI/CD pipelines,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"Champion platform engineering and DevOps practices CI/CD, automation",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"Cisco routers, firewalls and switches",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Compliance and License Management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Computing hardware and software,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Corporate governance and risk oversight,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Corporate management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Cross-functional project management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"Cybersecurity,Cloud Technologies",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+DNS,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Data capture and analysis,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"Data extraction, MI reporting, data analysis, BI, programming/analytical languages, data systems engineering, advanced MS Office, data quality & integrity",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Data governance,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Data governance and standards,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Data protection,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Data warehousing,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Dovecot,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"ERP (Dynamics 365 F&O), retail/WMS/POS systems, SQL Server, Oracle, system integrations, reporting tools, upgrades/testing/deployment, data migration, release management, security & governance, project & stakeholder management",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Email server management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Enterprise systems architecture,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Fibre networks,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"HA solutions design, data center architecture, HPE/IBM/Cisco, Hyper-V, VMware, ISO auditing",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Hardware maintenance,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+ICT governance framework,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+ICT project management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+ICT strategy,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+ICT strategy implementation,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IP PBX,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+ISDN,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT Procurement,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT architecture,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT governance,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"IT governance, IT strategy, project/programme management, IT service management, enterprise systems, cybersecurity, digital transformation, budget management",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT infrastructure management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT policy and procedures,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT policy and process development,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT project management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+IT service delivery,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"IT strategy, IT infrastructure, networks, servers, enterprise systems, digital transformation, IT governance, cybersecurity, information & data security, ESG, risk oversight, people management",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"IT strategy, infrastructure, digital transformation, IT operations, network management, security, team leadership",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"ITIL, Microsoft",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Information and data security,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Information management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Information security and data privacy,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Information systems leadership,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Information technologies and procedures,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Infrastructure design and deployment,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+KPI tracking and reporting,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Kubernetes,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+LAN/WAN,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Leadership and supervision,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Leased lines,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Linux administration,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Loyalty database management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Microsoft Dynamics 365,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Microsoft Exchange Server,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Network architecture and Security,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Network planning and operations,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"Networks, servers and enterprise systems",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+PSTN,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+People management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Planning and budgeting,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Planning and organising,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Predictive analytics and forecasting,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+"QoS, SLA and KPI management",4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Quality assurance,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Quality management systems,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Regulatory compliance,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Research and development oversight,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+SAP systems (advantageous),4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+SQL database administration,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Sage Pastel,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Security management and cyber security awareness,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Server installation,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Software Asset Management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Software Publisher/Portfolio management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Software and applications management,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Software engineering,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+System design,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+System support,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Systems availability and stability,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Team leadership,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Technology and digital transformation strategy,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+VAS/payments systems,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+VIP Payroll (advantageous),4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+VOIP,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+VSAT,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Website/mobile app development,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Windows servers,4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Wireless networking (Matrix equipment),4.5,0.0,4.5,Management,22,ALL graduates (none target this role)
+Java,4.5,3.3,1.2,Management,22,ALL graduates (none target this role)
+JavaScript,4.5,3.3,1.2,Management,22,ALL graduates (none target this role)
+VPN,4.5,6.7,-2.1,Management,22,ALL graduates (none target this role)
+Active Directory,4.5,8.3,-3.8,Management,22,ALL graduates (none target this role)
+Python,4.5,33.3,-28.8,Management,22,ALL graduates (none target this role)
+Server administration,40.0,0.0,40.0,Networking,5,graduates targeting this role
+Antenna structure systems and access nodes,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Disaster recovery and backup management,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Endpoint protection,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Governance and reporting,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Information risk and security management,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Information technology management,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Infrastructure asset and budget management,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Internet connectivity maintenance,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Network design,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Network management (WAN/LAN),20.0,0.0,20.0,Networking,5,graduates targeting this role
+Network technology,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Network troubleshooting,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Power and air conditioning systems,20.0,0.0,20.0,Networking,5,graduates targeting this role
+"Radio access network, RAN",20.0,0.0,20.0,Networking,5,graduates targeting this role
+"Routers, switches, WAPs, firewalls, cabling, TCP/IP, LAN/WAN, Wi-Fi, DNS, DHCP, VLANs, network security, Cisco, MikroTik, Fortinet",20.0,0.0,20.0,Networking,5,graduates targeting this role
+Service quality and reliability management,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Supplier and outsourced ASP management,20.0,0.0,20.0,Networking,5,graduates targeting this role
+"TCP/IP, BGP, OSPF, routers, switches, firewalls, WAPs, VMware, Hyper-V, AWS, Azure, data centre management, backup/recovery, cybersecurity, server administration",20.0,0.0,20.0,Networking,5,graduates targeting this role
+Telecommunications network operations,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Transmission systems,20.0,0.0,20.0,Networking,5,graduates targeting this role
+Firewall management,20.0,50.0,-30.0,Networking,5,graduates targeting this role
+Network configuration,20.0,50.0,-30.0,Networking,5,graduates targeting this role
+VPN,20.0,50.0,-30.0,Networking,5,graduates targeting this role
+Backup and disaster recovery,20.0,87.5,-67.5,Networking,5,graduates targeting this role
+Botswana Data Protection Act 2018,10.0,0.0,10.0,Security,10,graduates targeting this role
+Botswana Data Protection Act 2024,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cloud computing,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cyber Risk,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cyber risk management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cyber security awareness training,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cybersecurity,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cybersecurity Bill 2025,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cybersecurity frameworks,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cybersecurity governance,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cybersecurity policy,10.0,0.0,10.0,Security,10,graduates targeting this role
+Data lifecycle management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Data protection and privacy compliance,10.0,0.0,10.0,Security,10,graduates targeting this role
+Endpoint and security sensor monitoring,10.0,0.0,10.0,Security,10,graduates targeting this role
+GDPR,10.0,0.0,10.0,Security,10,graduates targeting this role
+ICT budget and vendor/SLA management,10.0,0.0,10.0,Security,10,graduates targeting this role
+ICT infrastructure management,10.0,0.0,10.0,Security,10,graduates targeting this role
+ISO/IEC 27001,10.0,0.0,10.0,Security,10,graduates targeting this role
+IT audit methodology,10.0,0.0,10.0,Security,10,graduates targeting this role
+Identity and access management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Incident investigation,10.0,0.0,10.0,Security,10,graduates targeting this role
+Incident response,10.0,0.0,10.0,Security,10,graduates targeting this role
+Incident triage and escalation,10.0,0.0,10.0,Security,10,graduates targeting this role
+Information Security Management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Information governance,10.0,0.0,10.0,Security,10,graduates targeting this role
+Information security governance,10.0,0.0,10.0,Security,10,graduates targeting this role
+Information security management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Information security management systems,10.0,0.0,10.0,Security,10,graduates targeting this role
+Internal security frameworks,10.0,0.0,10.0,Security,10,graduates targeting this role
+NIST,10.0,0.0,10.0,Security,10,graduates targeting this role
+"Network, endpoint and cloud security",10.0,0.0,10.0,Security,10,graduates targeting this role
+"Networking fundamentals (TCP/IP, DNS, HTTP/S, VPNs, firewalls)",10.0,0.0,10.0,Security,10,graduates targeting this role
+P&l management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Regulatory Compliance Risk,10.0,0.0,10.0,Security,10,graduates targeting this role
+Regulatory compliance,10.0,0.0,10.0,Security,10,graduates targeting this role
+"Regulatory frameworks (NBFIRA, Bank of Botswana, AML/CTF)",10.0,0.0,10.0,Security,10,graduates targeting this role
+Risk identification and response,10.0,0.0,10.0,Security,10,graduates targeting this role
+SIEM alert analysis,10.0,0.0,10.0,Security,10,graduates targeting this role
+Security incident investigation and reporting,10.0,0.0,10.0,Security,10,graduates targeting this role
+Security monitoring (24/7 managed security services),10.0,0.0,10.0,Security,10,graduates targeting this role
+Security operations management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Security risk assessment,10.0,0.0,10.0,Security,10,graduates targeting this role
+Security technologies,10.0,0.0,10.0,Security,10,graduates targeting this role
+Server management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Technology Risk,10.0,0.0,10.0,Security,10,graduates targeting this role
+Ticketing and incident documentation,10.0,0.0,10.0,Security,10,graduates targeting this role
+Vulnerability management,10.0,0.0,10.0,Security,10,graduates targeting this role
+Windows and Linux operating systems,10.0,0.0,10.0,Security,10,graduates targeting this role
+audit methodologies,10.0,0.0,10.0,Security,10,graduates targeting this role
+business case development,10.0,0.0,10.0,Security,10,graduates targeting this role
+product marketing,10.0,0.0,10.0,Security,10,graduates targeting this role
+risk assessment,10.0,0.0,10.0,Security,10,graduates targeting this role
+Cloud security,10.0,40.0,-30.0,Security,10,graduates targeting this role
+Incident management,10.0,40.0,-30.0,Security,10,graduates targeting this role
+Vulnerability assessment,10.0,40.0,-30.0,Security,10,graduates targeting this role
+Network security,10.0,50.0,-40.0,Security,10,graduates targeting this role
+Risk assessment,10.0,50.0,-40.0,Security,10,graduates targeting this role
+Business process automation,15.4,0.0,15.4,Software,13,graduates targeting this role
+Data analysis,15.4,0.0,15.4,Software,13,graduates targeting this role
+Databases,15.4,0.0,15.4,Software,13,graduates targeting this role
+Documentation and knowledge transfer,15.4,0.0,15.4,Software,13,graduates targeting this role
+ERPNext,15.4,0.0,15.4,Software,13,graduates targeting this role
+Frappe framework,15.4,0.0,15.4,Software,13,graduates targeting this role
+Master-data management,15.4,0.0,15.4,Software,13,graduates targeting this role
+MySQL,15.4,0.0,15.4,Software,13,graduates targeting this role
+Operational systems support,15.4,0.0,15.4,Software,13,graduates targeting this role
+PHP,15.4,0.0,15.4,Software,13,graduates targeting this role
+Payment gateway integration,15.4,0.0,15.4,Software,13,graduates targeting this role
+.NET framework,7.7,0.0,7.7,Software,13,graduates targeting this role
+API and microservices development,7.7,0.0,7.7,Software,13,graduates targeting this role
+API development,7.7,0.0,7.7,Software,13,graduates targeting this role
+ASP.NET Core,7.7,0.0,7.7,Software,13,graduates targeting this role
+Agile delivery methodologies,7.7,0.0,7.7,Software,13,graduates targeting this role
+Agile methodologies,7.7,0.0,7.7,Software,13,graduates targeting this role
+Allen Bradley PLCs (Rockwell),7.7,0.0,7.7,Software,13,graduates targeting this role
+Angular,7.7,0.0,7.7,Software,13,graduates targeting this role
+Angular or React,7.7,0.0,7.7,Software,13,graduates targeting this role
+Apache web server,7.7,0.0,7.7,Software,13,graduates targeting this role
+App state management,7.7,0.0,7.7,Software,13,graduates targeting this role
+App store deployment,7.7,0.0,7.7,Software,13,graduates targeting this role
+Backend development,7.7,0.0,7.7,Software,13,graduates targeting this role
+"C#, Java, JavaScript, Python, SQL, NoSQL, Node.js, React, Django, Spring, Azure, Docker, Git, GitLab, API, Agile, Access, Computer Software, Leadership, Management",7.7,0.0,7.7,Software,13,graduates targeting this role
+CI/CD pipeline engineering,7.7,0.0,7.7,Software,13,graduates targeting this role
+CI/CD pipelines,7.7,0.0,7.7,Software,13,graduates targeting this role
+Change management,7.7,0.0,7.7,Software,13,graduates targeting this role
+Cloud-native solutions,7.7,0.0,7.7,Software,13,graduates targeting this role
+Containerisation and orchestration,7.7,0.0,7.7,Software,13,graduates targeting this role
+Continuous integration as an asset,7.7,0.0,7.7,Software,13,graduates targeting this role
+Control and instrumentation,7.7,0.0,7.7,Software,13,graduates targeting this role
+Custom WordPress plugin development,7.7,0.0,7.7,Software,13,graduates targeting this role
+Custom theme and plugin development,7.7,0.0,7.7,Software,13,graduates targeting this role
+Dart,7.7,0.0,7.7,Software,13,graduates targeting this role
+Data engineering,7.7,0.0,7.7,Software,13,graduates targeting this role
+Debugging and diagnostics,7.7,0.0,7.7,Software,13,graduates targeting this role
+"Debugging, testing and performance optimisation",7.7,0.0,7.7,Software,13,graduates targeting this role
+DevOps,7.7,0.0,7.7,Software,13,graduates targeting this role
+Electronics/digital electronics,7.7,0.0,7.7,Software,13,graduates targeting this role
+Elementor,7.7,0.0,7.7,Software,13,graduates targeting this role
+Entity Framework or NHibernate,7.7,0.0,7.7,Software,13,graduates targeting this role
+"Firebase Authentication, Firestore and push notifications",7.7,0.0,7.7,Software,13,graduates targeting this role
+Flutter,7.7,0.0,7.7,Software,13,graduates targeting this role
+FlutterFlow,7.7,0.0,7.7,Software,13,graduates targeting this role
+GIS technologies as an asset,7.7,0.0,7.7,Software,13,graduates targeting this role
+Generative AI development,7.7,0.0,7.7,Software,13,graduates targeting this role
+Git version control,7.7,0.0,7.7,Software,13,graduates targeting this role
+HTML/CSS,7.7,0.0,7.7,Software,13,graduates targeting this role
+Headless WordPress,7.7,0.0,7.7,Software,13,graduates targeting this role
+"Hosting management, cPanel and VPS",7.7,0.0,7.7,Software,13,graduates targeting this role
+"Java, Python, .NET, SQL Databases, Autec Babylon, Siemens, Gallagher, Milestone, Cisco Systems, cloud technologies, Agile, DevOps, system architecture, networking, enterprise integration",7.7,0.0,7.7,Software,13,graduates targeting this role
+Laravel framework as an advantage,7.7,0.0,7.7,Software,13,graduates targeting this role
+MLOps pipeline automation,7.7,0.0,7.7,Software,13,graduates targeting this role
+Microservices,7.7,0.0,7.7,Software,13,graduates targeting this role
+Microsoft SQL Server,7.7,0.0,7.7,Software,13,graduates targeting this role
+"Modern frameworks, REST APIs, API integration, Git/GitHub, mobile & web development",7.7,0.0,7.7,Software,13,graduates targeting this role
+MongoDB,7.7,0.0,7.7,Software,13,graduates targeting this role
+Nancy or WebAPI2,7.7,0.0,7.7,Software,13,graduates targeting this role
+Network authentication and security protocols,7.7,0.0,7.7,Software,13,graduates targeting this role
+Oracle,7.7,0.0,7.7,Software,13,graduates targeting this role
+PHP frameworks,7.7,0.0,7.7,Software,13,graduates targeting this role
+PLC programming,7.7,0.0,7.7,Software,13,graduates targeting this role
+PostgreSQL,7.7,0.0,7.7,Software,13,graduates targeting this role
+Project management,7.7,0.0,7.7,Software,13,graduates targeting this role
+Quantitative proficiency,7.7,0.0,7.7,Software,13,graduates targeting this role
+REST API and JSON integration,7.7,0.0,7.7,Software,13,graduates targeting this role
+REST API integration,7.7,0.0,7.7,Software,13,graduates targeting this role
+RESTful web services,7.7,0.0,7.7,Software,13,graduates targeting this role
+SEO and performance optimisation,7.7,0.0,7.7,Software,13,graduates targeting this role
+Scripting and automation,7.7,0.0,7.7,Software,13,graduates targeting this role
+Security hardening and WAF,7.7,0.0,7.7,Software,13,graduates targeting this role
+Server OS maintenance,7.7,0.0,7.7,Software,13,graduates targeting this role
+"Software development, debugging, maintenance, technical support, documentation, quality/compliance",7.7,0.0,7.7,Software,13,graduates targeting this role
+Software testing and debugging,7.7,0.0,7.7,Software,13,graduates targeting this role
+Technical documentation,7.7,0.0,7.7,Software,13,graduates targeting this role
+UI/UX design,7.7,0.0,7.7,Software,13,graduates targeting this role
+Vue.js,7.7,0.0,7.7,Software,13,graduates targeting this role
+"Web development, application development, modern frameworks, responsive interfaces, clean code, documentation, testing, deployment",7.7,0.0,7.7,Software,13,graduates targeting this role
+Website migration and deployment,7.7,0.0,7.7,Software,13,graduates targeting this role
+WooCommerce,7.7,0.0,7.7,Software,13,graduates targeting this role
+WordPress development,7.7,0.0,7.7,Software,13,graduates targeting this role
+"WordPress integration, REST API, JWT and custom endpoints",7.7,0.0,7.7,Software,13,graduates targeting this role
+"Workflow, report and business application development",7.7,0.0,7.7,Software,13,graduates targeting this role
+XML,7.7,0.0,7.7,Software,13,graduates targeting this role
+jQuery,7.7,0.0,7.7,Software,13,graduates targeting this role
+CSS,15.4,20.0,-4.6,Software,13,graduates targeting this role
+Node.js,15.4,20.0,-4.6,Software,13,graduates targeting this role
+JavaScript,30.8,40.0,-9.2,Software,13,graduates targeting this role
+C#,7.7,40.0,-32.3,Software,13,graduates targeting this role
+REST APIs,7.7,40.0,-32.3,Software,13,graduates targeting this role
+Python,15.4,60.0,-44.6,Software,13,graduates targeting this role
+TypeScript,7.7,60.0,-52.3,Software,13,graduates targeting this role
+HTML,15.4,80.0,-64.6,Software,13,graduates targeting this role
+SQL,15.4,80.0,-64.6,Software,13,graduates targeting this role
+React,7.7,80.0,-72.3,Software,13,graduates targeting this role
+Cybersecurity,7.1,0.0,7.1,Support,28,graduates targeting this role
+Networking,7.1,0.0,7.1,Support,28,graduates targeting this role
+Virtualisation,7.1,0.0,7.1,Support,28,graduates targeting this role
+"ATM, card and POS support",3.6,0.0,3.6,Support,28,graduates targeting this role
+Amazon Web Services,3.6,0.0,3.6,Support,28,graduates targeting this role
+Application development,3.6,0.0,3.6,Support,28,graduates targeting this role
+Application installation and support,3.6,0.0,3.6,Support,28,graduates targeting this role
+Application testing and troubleshooting,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Applications support & maintenance, user support & training, incident/problem management, system configuration, data management & reporting, business analysis, process automation, vendor/stakeholder coordination, project & contract management",3.6,0.0,3.6,Support,28,graduates targeting this role
+Azure,3.6,0.0,3.6,Support,28,graduates targeting this role
+Backend Development,3.6,0.0,3.6,Support,28,graduates targeting this role
+Backup and disaster recovery,3.6,0.0,3.6,Support,28,graduates targeting this role
+Banking application support,3.6,0.0,3.6,Support,28,graduates targeting this role
+Basic security protocols,3.6,0.0,3.6,Support,28,graduates targeting this role
+Business analysis,3.6,0.0,3.6,Support,28,graduates targeting this role
+Business intelligence,3.6,0.0,3.6,Support,28,graduates targeting this role
+Business planning and development,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Business process analysis, requirements gathering, stakeholder analysis, process modelling, use cases, user stories, workflow analysis, systems analysis",3.6,0.0,3.6,Support,28,graduates targeting this role
+Business systems integration,3.6,0.0,3.6,Support,28,graduates targeting this role
+COBOL development and support,3.6,0.0,3.6,Support,28,graduates targeting this role
+"COBOL, Core Java, JavaScript, Shell scripting, SQL, SOAP/REST web services, TCS BaNCS",3.6,0.0,3.6,Support,28,graduates targeting this role
+"CRM, digital marketing platforms, workflow automation, AI tools, Microsoft Office, troubleshooting, documentation, data accuracy/security",3.6,0.0,3.6,Support,28,graduates targeting this role
+Change management,3.6,0.0,3.6,Support,28,graduates targeting this role
+Cloud and hybrid infrastructure,3.6,0.0,3.6,Support,28,graduates targeting this role
+Cloud architecture,3.6,0.0,3.6,Support,28,graduates targeting this role
+Cloud computing,3.6,0.0,3.6,Support,28,graduates targeting this role
+Cloud infrastructure,3.6,0.0,3.6,Support,28,graduates targeting this role
+Cloud security,3.6,0.0,3.6,Support,28,graduates targeting this role
+Compute,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Containerisation (Docker, Kubernetes)",3.6,0.0,3.6,Support,28,graduates targeting this role
+Core Java,3.6,0.0,3.6,Support,28,graduates targeting this role
+Customer experience management,3.6,0.0,3.6,Support,28,graduates targeting this role
+Customer relationship and development,3.6,0.0,3.6,Support,28,graduates targeting this role
+Customer segmentation,3.6,0.0,3.6,Support,28,graduates targeting this role
+Customer service management,3.6,0.0,3.6,Support,28,graduates targeting this role
+Cybersecurity awareness,3.6,0.0,3.6,Support,28,graduates targeting this role
+Cybersecurity updates and compliance,3.6,0.0,3.6,Support,28,graduates targeting this role
+DAX,3.6,0.0,3.6,Support,28,graduates targeting this role
+Data Protection,3.6,0.0,3.6,Support,28,graduates targeting this role
+Data analytics and dashboards,3.6,0.0,3.6,Support,28,graduates targeting this role
+Data backups and disaster recovery,3.6,0.0,3.6,Support,28,graduates targeting this role
+Data extraction and reporting,3.6,0.0,3.6,Support,28,graduates targeting this role
+Data governance,3.6,0.0,3.6,Support,28,graduates targeting this role
+Data management and analytics,3.6,0.0,3.6,Support,28,graduates targeting this role
+Data mining and analytics,3.6,0.0,3.6,Support,28,graduates targeting this role
+Database Management,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Digital banking technologies (online banking, mobile banking, agency banking, USSD)",3.6,0.0,3.6,Support,28,graduates targeting this role
+Disaster recovery,3.6,0.0,3.6,Support,28,graduates targeting this role
+Disaster recovery and backup,3.6,0.0,3.6,Support,28,graduates targeting this role
+ERP support and administration,3.6,0.0,3.6,Support,28,graduates targeting this role
+ETL,3.6,0.0,3.6,Support,28,graduates targeting this role
+"End-user device, application and peripheral support",3.6,0.0,3.6,Support,28,graduates targeting this role
+"Endpoint protection, backup and patch compliance",3.6,0.0,3.6,Support,28,graduates targeting this role
+Enterprise OS and infrastructure,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Enterprise messaging (Google Workspace, Microsoft)",3.6,0.0,3.6,Support,28,graduates targeting this role
+Enterprise products and services,3.6,0.0,3.6,Support,28,graduates targeting this role
+Feasibility analysis,3.6,0.0,3.6,Support,28,graduates targeting this role
+Firewalls,3.6,0.0,3.6,Support,28,graduates targeting this role
+First-line IT support,3.6,0.0,3.6,Support,28,graduates targeting this role
+Front End Development,3.6,0.0,3.6,Support,28,graduates targeting this role
+Google Cloud Platform,3.6,0.0,3.6,Support,28,graduates targeting this role
+Google Workspace,3.6,0.0,3.6,Support,28,graduates targeting this role
+HCS,3.6,0.0,3.6,Support,28,graduates targeting this role
+"HIS/EMR admin, user support & training, access management, reporting/data extraction, performance monitoring, vendor liaison, backups & DR, data security, health-data standards (desirable)",3.6,0.0,3.6,Support,28,graduates targeting this role
+Hardware troubleshooting,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Hardware/software support, network troubleshooting, systems administration, cybersecurity, database management, data backup, user access controls, documentation, MS Office",3.6,0.0,3.6,Support,28,graduates targeting this role
+Help desk incident and service request management,3.6,0.0,3.6,Support,28,graduates targeting this role
+IAM,3.6,0.0,3.6,Support,28,graduates targeting this role
+ICT asset management,3.6,0.0,3.6,Support,28,graduates targeting this role
+IT Security Protocols,3.6,0.0,3.6,Support,28,graduates targeting this role
+IT asset management,3.6,0.0,3.6,Support,28,graduates targeting this role
+IT budgeting,3.6,0.0,3.6,Support,28,graduates targeting this role
+IT governance and compliance,3.6,0.0,3.6,Support,28,graduates targeting this role
+IT infrastructure,3.6,0.0,3.6,Support,28,graduates targeting this role
+IT project life cycle,3.6,0.0,3.6,Support,28,graduates targeting this role
+IT service management (ITSM),3.6,0.0,3.6,Support,28,graduates targeting this role
+IT/OT network monitoring,3.6,0.0,3.6,Support,28,graduates targeting this role
+ITIL practices (advantage),3.6,0.0,3.6,Support,28,graduates targeting this role
+"ITSM platforms (ServiceNow, ManageEngine, Zendesk)",3.6,0.0,3.6,Support,28,graduates targeting this role
+"Industrial control systems (SCADA, DCS)",3.6,0.0,3.6,Support,28,graduates targeting this role
+Infrastructure administration,3.6,0.0,3.6,Support,28,graduates targeting this role
+Infrastructure and DevOps,3.6,0.0,3.6,Support,28,graduates targeting this role
+Insights and analytics,3.6,0.0,3.6,Support,28,graduates targeting this role
+Interactive dashboards and visual reporting,3.6,0.0,3.6,Support,28,graduates targeting this role
+JavaScript,3.6,0.0,3.6,Support,28,graduates targeting this role
+LAN/WAN networking,3.6,0.0,3.6,Support,28,graduates targeting this role
+LAN/Wi-Fi networking,3.6,0.0,3.6,Support,28,graduates targeting this role
+Linux administration,3.6,0.0,3.6,Support,28,graduates targeting this role
+Load balancers,3.6,0.0,3.6,Support,28,graduates targeting this role
+MS Office,3.6,0.0,3.6,Support,28,graduates targeting this role
+MS Windows operating system,3.6,0.0,3.6,Support,28,graduates targeting this role
+Market intelligence,3.6,0.0,3.6,Support,28,graduates targeting this role
+Microsoft Power BI,3.6,0.0,3.6,Support,28,graduates targeting this role
+Monitoring,3.6,0.0,3.6,Support,28,graduates targeting this role
+MySQL,3.6,0.0,3.6,Support,28,graduates targeting this role
+Network administration,3.6,0.0,3.6,Support,28,graduates targeting this role
+Network and computer troubleshooting,3.6,0.0,3.6,Support,28,graduates targeting this role
+Network and connectivity troubleshooting,3.6,0.0,3.6,Support,28,graduates targeting this role
+Network and telecommunications equipment documentation,3.6,0.0,3.6,Support,28,graduates targeting this role
+Not Specied,3.6,0.0,3.6,Support,28,graduates targeting this role
+Oracle (basic),3.6,0.0,3.6,Support,28,graduates targeting this role
+Oracle SQL,3.6,0.0,3.6,Support,28,graduates targeting this role
+PL/SQL and T-SQL,3.6,0.0,3.6,Support,28,graduates targeting this role
+POS platforms,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Patching, updates and capacity monitoring",3.6,0.0,3.6,Support,28,graduates targeting this role
+Problem solving and analytical thinking,3.6,0.0,3.6,Support,28,graduates targeting this role
+Process simplification and digitisation,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Project supervision, milestone assessment (Initial/Interim/Final Reports, Oral Presentations), research methodologies, academic writing, progress monitoring, collaboration with coordinators/examiners, IT trends knowledge, mentoring",3.6,0.0,3.6,Support,28,graduates targeting this role
+Quality assurance,3.6,0.0,3.6,Support,28,graduates targeting this role
+Relational databases,3.6,0.0,3.6,Support,28,graduates targeting this role
+Responsible AI adoption,3.6,0.0,3.6,Support,28,graduates targeting this role
+Retailman Software,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Routers, switches, firewalls, WAPs, network monitoring, troubleshooting, VPNs, IDS/IPS, access control, network design, backup/recovery, disaster recovery, documentation, SOPs",3.6,0.0,3.6,Support,28,graduates targeting this role
+SDLC methodologies,3.6,0.0,3.6,Support,28,graduates targeting this role
+SLA management,3.6,0.0,3.6,Support,28,graduates targeting this role
+SQL applications,3.6,0.0,3.6,Support,28,graduates targeting this role
+SQL development and support,3.6,0.0,3.6,Support,28,graduates targeting this role
+School management systems,3.6,0.0,3.6,Support,28,graduates targeting this role
+Scripting and Infrastructure-as-Code (advantage),3.6,0.0,3.6,Support,28,graduates targeting this role
+Second-line IT support,3.6,0.0,3.6,Support,28,graduates targeting this role
+Security and IAM,3.6,0.0,3.6,Support,28,graduates targeting this role
+Service reporting,3.6,0.0,3.6,Support,28,graduates targeting this role
+Shell scripting,3.6,0.0,3.6,Support,28,graduates targeting this role
+Software deployment and upgrades,3.6,0.0,3.6,Support,28,graduates targeting this role
+Software installation and maintenance,3.6,0.0,3.6,Support,28,graduates targeting this role
+Storage,3.6,0.0,3.6,Support,28,graduates targeting this role
+"System Administration, Network Access Controls, Systems Analysis & Implementation, Systems Development (MUST)",3.6,0.0,3.6,Support,28,graduates targeting this role
+System Configuration,3.6,0.0,3.6,Support,28,graduates targeting this role
+System documentation,3.6,0.0,3.6,Support,28,graduates targeting this role
+TCS BaNCS core banking application,3.6,0.0,3.6,Support,28,graduates targeting this role
+"Teaching (Discrete Structures, Theory of Computation), curriculum development, assessment design, research, student supervision, research proposals, scholarly presentations, strategic planning",3.6,0.0,3.6,Support,28,graduates targeting this role
+"Technical support, hardware/software installation, system maintenance, network administration, user account management, documentation, computer systems/networks/OS knowledge",3.6,0.0,3.6,Support,28,graduates targeting this role
+Troubleshooting,3.6,0.0,3.6,Support,28,graduates targeting this role
+Troubleshooting skills,3.6,0.0,3.6,Support,28,graduates targeting this role
+Unix/Linux,3.6,0.0,3.6,Support,28,graduates targeting this role
+"User accounts, access rights and directory services",3.6,0.0,3.6,Support,28,graduates targeting this role
+Vendor management,3.6,0.0,3.6,Support,28,graduates targeting this role
+Vendor management and procurement,3.6,0.0,3.6,Support,28,graduates targeting this role
+Virtualisation and cloud platforms,3.6,0.0,3.6,Support,28,graduates targeting this role
+Visa clearing and settlement,3.6,0.0,3.6,Support,28,graduates targeting this role
+Web services SOAP/REST,3.6,0.0,3.6,Support,28,graduates targeting this role
+Windows,3.6,0.0,3.6,Support,28,graduates targeting this role
+Windows Environment,3.6,0.0,3.6,Support,28,graduates targeting this role
+Windows Server administration,3.6,0.0,3.6,Support,28,graduates targeting this role
+Windows environments,3.6,0.0,3.6,Support,28,graduates targeting this role
+"WordPress, Adobe Creative Suite, UI/UX, Basic HTML/CSS, Graphic Design",3.6,0.0,3.6,Support,28,graduates targeting this role
+information/automation systems engineering (advantageous),3.6,0.0,3.6,Support,28,graduates targeting this role
+"networking, systems administration, cybersecurity, and cloud technologies",3.6,0.0,3.6,Support,28,graduates targeting this role
+Customer service,7.1,30.0,-22.9,Support,28,graduates targeting this role
+Microsoft 365,3.6,40.0,-36.4,Support,28,graduates targeting this role
+Ticketing/incident management platforms,3.6,50.0,-46.4,Support,28,graduates targeting this role
+Hardware installation/repair,3.6,70.0,-66.4,Support,28,graduates targeting this role
+Windows OS,3.6,80.0,-76.4,Support,28,graduates targeting this role
