@@ -117,10 +117,73 @@ elif page == "Graduate Supply":
     st.dataframe(supply, use_container_width=True)
 
 # Gap Analysis
+
+# Gap Analysis
 elif page == "Gap Analysis":
     st.title("IT Skills Gap Analysis")
-    st.write("Explore the existing skills-gap results.")
-    st.dataframe(gaps, use_container_width=True)
+    st.write(
+        "Compare the skills employers request with the skills "
+        "represented in graduate profiles."
+    )
+
+    # Role filter
+    roles = sorted(gaps["Role"].dropna().unique())
+
+    selected_role = st.selectbox(
+        "Select IT Role",
+        ["All Roles"] + roles
+    )
+
+    filtered_gaps = gaps.copy()
+
+    if selected_role != "All Roles":
+        filtered_gaps = filtered_gaps[
+            filtered_gaps["Role"] == selected_role
+        ]
+
+    # Show the skills with the largest positive gaps
+    chart_data = filtered_gaps.sort_values(
+        "Gap", ascending=False
+    ).head(15)
+
+    # Compare employer demand and graduate supply
+    chart_data = chart_data.melt(
+        id_vars=["Skill"],
+        value_vars=["Demand_%", "Graduate_%"],
+        var_name="Measure",
+        value_name="Percentage"
+    )
+
+    chart_data["Measure"] = chart_data["Measure"].replace({
+        "Demand_%": "Employer Demand",
+        "Graduate_%": "Graduate Supply"
+    })
+
+    fig = px.bar(
+        chart_data,
+        x="Percentage",
+        y="Skill",
+        color="Measure",
+        barmode="group",
+        orientation="h",
+        title="Employer Demand vs Graduate Supply",
+        labels={
+            "Percentage": "Percentage (%)",
+            "Skill": "IT Skill",
+            "Measure": "Comparison"
+        }
+    )
+
+    fig.update_layout(
+        yaxis={"categoryorder": "total ascending"},
+        legend_title_text="",
+        height=650
+    )
+
+    st.plotly_chart(fig, use_container_width=True)
+
+    st.subheader("Skills Gap Data")
+    st.dataframe(filtered_gaps, use_container_width=True)
 
 # Job Postings
 elif page == "Job Postings":
