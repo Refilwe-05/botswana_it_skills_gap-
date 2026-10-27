@@ -66,10 +66,28 @@ if page == "Overview":
 elif page == "Skills Demand":
     st.title("IT Skills Demand")
     st.write("Skills identified in the job-posting dataset.")
+
+    demand_chart = demand.sort_values(
+        "Demand_Frequency", ascending=True
+    )
+
+    fig = px.bar(
+        demand_chart,
+        x="Demand_Frequency",
+        y="Skill",
+        orientation="h",
+        title="IT Job Demand by Skill",
+        labels={
+            "Demand_Frequency": "Number of Job Postings",
+            "Skill": "IT Skill"
+        },
+        text="Demand_Frequency"
+    )
+
+    fig.update_layout(yaxis={"categoryorder": "total ascending"})
+    st.plotly_chart(fig, use_container_width=True)
+
     st.dataframe(demand, use_container_width=True)
-
-    st.info("Review the column names to select the correct chart fields.")
-
 # Graduate Supply
 elif page == "Graduate Supply":
     st.title("Graduate Skills Supply")
