@@ -186,6 +186,8 @@ elif page == "Gap Analysis":
     st.dataframe(filtered_gaps, use_container_width=True)
 
 # Job Postings
+ 
+# Job Postings
 elif page == "Job Postings":
     st.title("IT Job Postings")
     st.caption(
@@ -193,18 +195,8 @@ elif page == "Job Postings":
         "requested by employers."
     )
 
-    # Summary cards
-    total_jobs = len(jobs)
-
-    if "role" in jobs.columns:
-        total_roles = jobs["role"].nunique()
-    else:
-        total_roles = 0
-
-    col1, col2 = st.columns(2)
-
-    col1.metric("Total Job Postings", total_jobs)
-    col2.metric("IT Role Categories", total_roles)
+    # Summary card
+    st.metric("Total Job Postings", len(jobs))
 
     st.divider()
 
@@ -221,7 +213,10 @@ elif page == "Job Postings":
     if search:
         mask = filtered_jobs.astype(str).apply(
             lambda col: col.str.contains(
-                search, case=False, na=False
+                search,
+                case=False,
+                na=False,
+                regex=False
             )
         ).any(axis=1)
 
@@ -229,7 +224,9 @@ elif page == "Job Postings":
 
     st.write(f"**{len(filtered_jobs)} job postings found**")
 
-    # Display job postings
+    st.divider()
+
+    # Job listings
     st.subheader("Job Listings")
 
     st.dataframe(
@@ -239,8 +236,6 @@ elif page == "Job Postings":
     )
 
     st.caption(
-        "Use the search box to find relevant job postings."
+        "Use the search box to find job postings by "
+        "title, company, or skill."
     )
-
-
-st.sidebar.caption("Botswana Accountancy College · BIDA Project")
