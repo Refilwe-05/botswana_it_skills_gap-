@@ -188,13 +188,33 @@ elif page == "Gap Analysis":
 # Job Postings
 elif page == "Job Postings":
     st.title("IT Job Postings")
-    st.write(
-        "Explore the job postings used to analyse IT skills "
-        "demand in Botswana."
+    st.caption(
+        "Explore job advertisements and the IT skills "
+        "requested by employers."
     )
 
-    # Search job titles or companies
-    search = st.text_input("Search job titles or companies")
+    # Summary cards
+    total_jobs = len(jobs)
+
+    if "role" in jobs.columns:
+        total_roles = jobs["role"].nunique()
+    else:
+        total_roles = 0
+
+    col1, col2 = st.columns(2)
+
+    col1.metric("Total Job Postings", total_jobs)
+    col2.metric("IT Role Categories", total_roles)
+
+    st.divider()
+
+    # Search area
+    st.subheader("Find a Job Posting")
+
+    search = st.text_input(
+        "Search by job title, company, or skill",
+        placeholder="Type a job title, company, or skill..."
+    )
 
     filtered_jobs = jobs.copy()
 
@@ -207,35 +227,20 @@ elif page == "Job Postings":
 
         filtered_jobs = filtered_jobs[mask]
 
-    # Chart showing postings by role
-    if "role" in filtered_jobs.columns:
-        role_counts = (
-            filtered_jobs["role"]
-            .fillna("Unknown")
-            .value_counts()
-            .rename_axis("Role")
-            .reset_index(name="Number of Postings")
-        )
+    st.write(f"**{len(filtered_jobs)} job postings found**")
 
-        fig = px.bar(
-            role_counts.sort_values(
-                "Number of Postings", ascending=True
-            ),
-            x="Number of Postings",
-            y="Role",
-            orientation="h",
-            text="Number of Postings",
-            title="Job Postings by IT Role",
-            labels={
-                "Number of Postings": "Number of Job Postings",
-                "Role": "IT Role"
-            }
-        )
+    # Display job postings
+    st.subheader("Job Listings")
 
-        st.plotly_chart(fig, use_container_width=True)
+    st.dataframe(
+        filtered_jobs,
+        use_container_width=True,
+        hide_index=True
+    )
 
-    st.write(f"Showing {len(filtered_jobs)} job postings")
-    st.dataframe(filtered_jobs, use_container_width=True)
+    st.caption(
+        "Use the search box to find relevant job postings."
+    )
 
 
 st.sidebar.caption("Botswana Accountancy College · BIDA Project")
