@@ -17,7 +17,7 @@ st.set_page_config(
 # Load datasets
 @st.cache_data
 def load_data():
-    jobs = pd.read_csv(DATA_DIR / "job_postings_clean.csv")
+    jobs = pd.read_csv(DATA_DIR / "job_postings_clean.xlsx")
     graduates = pd.read_csv(DATA_DIR / "grad_profiles_clean.csv")
     demand = pd.read_csv(DATA_DIR / "demand_skills.csv")
     supply = pd.read_csv(DATA_DIR / "supply_skills.csv")
